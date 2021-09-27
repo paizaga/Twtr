@@ -124,7 +124,7 @@
         <!--Navigation Controller-->
         <scene sceneID="5QC-RE-rHV">
             <objects>
-                <navigationController modalPresentationStyle="fullScreen" id="02O-Za-hqE" sceneMemberID="viewController">
+                <navigationController wantsFullScreenLayout="YES" modalPresentationStyle="fullScreen" id="02O-Za-hqE" sceneMemberID="viewController">
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="Vcm-La-xi4">
                         <rect key="frame" x="0.0" y="44" width="428" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
